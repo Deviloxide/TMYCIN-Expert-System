@@ -38,7 +38,7 @@ What is the REGION of PLANT0?
     Region H: Rio Grande Valley
     Expected values are: (A B C D E F G H)
 
-a
+>a
 What is the COLOR of PLANT0?
     List the colors of the flowers. If there are
     multiple colors, use the following format:
@@ -47,7 +47,7 @@ What is the COLOR of PLANT0?
     Expected values are: (TAN BROWN BLACK GREY GREEN PINK RED YELLOW
                               ORANGE)
 
-yellow
+>yellow
 What is the SIZE of PLANT0?
     Give the approximate size of the plant.
     tiny = 6 inches or less, small = 7-18 inches,
@@ -55,7 +55,7 @@ What is the SIZE of PLANT0?
     huge = over 120 inches.
     Expected values are: (TINY SMALL MEDIUM LARGE HUGE)
 
-huge
+>huge
 What is the TYPE of PLANT0?
     What type of plant is it?
     tree = woody plant with a single trunk
@@ -64,7 +64,7 @@ What is the TYPE of PLANT0?
     grass = grass-like plant
     Expected values are: (TREE SHRUB HERB GRASS)
 
-tree
+>tree
 What is the PERIOD of PLANT0?
     What is the time of year when the plant flowers?
     Expected values are: (SPRING SUMMER FALL WINTER)
@@ -78,22 +78,22 @@ What is the EXPOSURE of PLANT0?
     grass = grass-like plant
     Expected values are: (SUN PARTIAL-SUN)
 
-sun
+>sun
 What is the FEATURES of PLANT0?
     Enter features observed about the plant,
     or UNK if unknown or absent
     Expected values are: (THORNS FLOWERS BERRIES EDIBLE)
 
-(unknown)
+>(unknown)
 What is the BEHAVIOR of PLANT0?
     Enter any observed behaviors or stages,
     Expected values are: (BLOOMING FRUITING)
 
-blooming
+>blooming
 Is EDIBLE true of PLANT0?
     Expected values are: Yes/No
 
-(unknown)
+>(unknown)
 
 
 The conclusions for PLANT0 are as follows:
