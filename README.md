@@ -2,30 +2,39 @@
 A simple AI tool designed to assist in selecting the best plants for landscaping in Texas. This expert system leverages the TMycin framework to provide recommendations based on various plant characteristics and environmental conditions.
 
 ## Possible Inputs Attributes/Features
+
 Region:
 * The region where the plant is found.
 * Expected values: (A, B, C, D, E, F, G, H)
+
 Color:
 * The colors of the plant's flowers.
 * Expected values: (TAN, BROWN, BLACK, GREY, GREEN, PINK, RED, YELLOW, ORANGE)
+
 Size:
 * The approximate size of the plant.
 * Expected values: (TINY, SMALL, MEDIUM, LARGE, HUGE)
+
 Type:
 * The type of plant.
 * Expected values: (TREE, SHRUB, HERB, GRASS)
+
 Period:
 * The time of year when the plant flowers.
 * Expected values: (SPRING, SUMMER, FALL, WINTER)
+
 Exposure:
 * The amount of sunlight the plant needs.
 * Expected values: (SUN, PARTIAL-SUN)
+
 Features:
 * Observed features of the plant.
 * Expected values: (THORNS, FLOWERS, BERRIES, EDIBLE)
+
 Behavior:
 * Observed behaviors or stages of the plant.
 * Expected values: (BLOOMING, FRUITING)
+
 Edible:
 * Whether the plant is edible
 * Expected values: (Yes, No)
